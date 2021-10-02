@@ -1,0 +1,13 @@
+h1{
+    font-size: 20px;
+    color: aqua;
+}
+#my_canvas{
+    background-color:honeydew;
+    border-width: 10px;
+}
+
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+}
